@@ -1,4 +1,4 @@
-# Safeline
+# Safeline - The right to safety
 It is a chat hotline which provides a safe space for women.
 It shows the womans realtime location to the local police station and the assigned contacts.
 While this app is installed, it shows a notification "Error" when the person tries to turn off the location services manually.
