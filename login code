@@ -1,0 +1,58 @@
+<!-- Rectangle 1 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/rectangle_1"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:background="@drawable/rectangle_1"
+ />
+
+
+<!-- drawable/rectangle_1.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="667dp"
+android:viewportWidth="375"
+android:viewportHeight="667"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H375V667H0V0Z"
+/>
+
+</group>
+
+</vector>
+<!-- Component 4 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/component_4"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:background="@drawable/component_4"
+ />
+
+
+<!-- drawable/component_4.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="667dp"
+android:viewportWidth="375"
+android:viewportHeight="667"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H375V667H0V0Z"
+/>
+
+</group>
+
+</vector>
